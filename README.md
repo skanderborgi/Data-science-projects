@@ -1,7 +1,7 @@
 # This repository contains:
   *A collection of my Data Science projects in Jupyter notebooks.  
   *Author : Borgi Skander  
-  Email:[borgi.skander@gmail.com](borgi.skander@gmail.com) | Linkedin : [Skander Borgi](https://www.linkedin.com/in/skander-borgi/)
+  Email: [mailto](borgi.skander@gmail.com) | Linkedin : [Skander Borgi](https://www.linkedin.com/in/skander-borgi/)
   
 ### Ps: Here, you will find a file that shows how to use Kaggle datasets in Google Colab
 1. You need to have Kaggle package installed `pip install kaggle`  
